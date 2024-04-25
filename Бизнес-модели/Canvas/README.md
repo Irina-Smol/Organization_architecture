@@ -15,6 +15,9 @@
 Улучшения платформы, челенджи для достижения целей
 ![image](https://github.com/Irina-Smol/Organization_architecture/assets/112115002/6713e649-1d9e-456f-9b12-4ee8049d2e5a)
 
+Аналитика платформы
+![image](https://github.com/Irina-Smol/Organization_architecture/assets/112115002/adff874c-f0f5-4213-b09e-2cf73d5531fb)
+
 Тренды, маркетинг, экономика и индустрия в бизнесе
 ![image](https://github.com/Irina-Smol/Organization_architecture/assets/112115002/32f608e3-1c89-4f12-be68-411d5ff83dc8)
 
